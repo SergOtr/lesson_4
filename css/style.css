@@ -1,0 +1,129 @@
+/* &display=swap */
+
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Russo+One&display=swap");
+
+@font-face {
+	font-family: Robotesqa;
+	src: url(../fonts/Robotesqa4F-Bold.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: Robotesqa;
+	src: url(../fonts/Robotesqa4F-Italic.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: Lato;
+	src: url("../fonts/Lato-Black.woff2") format("woff2"), url("../fonts/Lato-Black.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: Lato;
+	src: url("../fonts/Lato-Bold.woff2") format("woff2"), url("../fonts/Lato-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: Lato;
+	src: url("../fonts/Lato-Regular.woff2") format("woff2"), url("../fonts/Lato-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+body {
+	width: 810px;
+	font-family: Lato;
+	color: #424551;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 25.6px;
+}
+h1 {
+	color: #1e212c;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 59.8px;
+}
+.after-photo,
+.center {
+	color: #1e212c;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+div a {
+	font-family: 'Pacifico', cursive;
+	color: rgb(175, 76, 30);
+	font-size: 25px;
+	font-weight: 400;
+}
+.big {
+	font-family: 'Russo One', sans-serif;
+	color: rgb(184, 37, 17);
+	font-size: 30px;
+	font-weight: 400;
+}
+#last {
+	font-family: 'Stick', sans-serif;
+	color: rgb(160, 175, 30);
+	font-size: 20px;
+}
+.start .first {
+	font-family: Lato-Regular;
+	color: rgb(11, 134, 216);
+	font-size: 25px;
+}
+div .second {
+	font-family: Lato-Bold;
+	color: rgb(84, 139, 177);
+}
+.third.third-plus {
+	font-family: Lato-Black;
+	color: rgb(122, 141, 155);
+	font-size: 24px;
+}
+[class$="test"] {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: rgb(219, 84, 74);
+	font-size: 20px;
+	font-weight: 500;
+}
+[class$="tes"] {
+	font-family: Robotesqa-Italic, sans-serif;
+	color: rgb(64, 139, 173);
+	font-size: 19px;
+	font-weight: 500;
+}
+.security {
+	font-family: Robotesqa-Bold, sans-serif;
+	color: rgb(31, 70, 141);
+	font-size: 19px;
+	font-weight: 500;
+}
+.semi-last p {
+	font-family: 'Stick', sans-serif;
+	color: rgb(211, 224, 17);
+}
+.semi-last .last-prime {
+	font-family: 'Pacifico', cursive;
+	color: rgb(84, 166, 177);
+	font-size: 22px;
+}
+.semi-last .only-table {
+	font-family: 'Russo One', sans-serif;
+	color: rgb(209, 80, 188);
+}
+.figma {
+	font-family: 'Reggae One', cursive;
+	color: rgb(31, 15, 241);
+	font-size: 28.5px;
+}
